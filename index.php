@@ -7,9 +7,9 @@ $rows = $db->query($sql); // stire the records and thenn loop for than i will go
 <html>
 	<head>
 		<title>	Resources Forum</title>
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<script src="dist/jquery.min.js"></script>
+		<script src="dist/bootstrap.min.js" ></script>
+		<link rel="stylesheet" href="dist/bootstrap.min.css">
 	</head>
 	<body>
 		<!-- https://getbootstrap.com/docs/4.0/content/tables/ -->
